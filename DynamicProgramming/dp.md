@@ -5,8 +5,8 @@
 
 
 # Approaches of DP
-1 Top - down approach (Memorization / memoization technique).
-2 Bottom -up approach (Tabulation technique).
+1 Top - down approach (Memorization / memoization technique)  
+2 Bottom -up approach (Tabulation technique)  
 
 
 
