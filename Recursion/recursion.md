@@ -12,6 +12,10 @@ fun(){
 -> Recursion Tree  
 
 
+### Problems
+1) Sum of 'N' natural numbers (parameterized & functional recursion)  
+2) Print all subsequences (pick and not pick)  
+
 
 
 

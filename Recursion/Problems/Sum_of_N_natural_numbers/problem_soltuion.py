@@ -13,6 +13,7 @@ def sumOfNums(n, sum):
 n = int(input('Enter number : '))
 s = sumOfNums(n, 0)
 print(f'Sum of {n} numbers = {s}')
+#Time: O(n) Space: O(n)
 
 #functional recursion
 def sumOfNums(n):
@@ -23,3 +24,4 @@ def sumOfNums(n):
 n = int(input('Enter number : '))
 s = sumOfNums(n)
 print(f'Sum of {n} numbers = {s}')
+#Time: O(n) Space: O(n)
