@@ -10,7 +10,7 @@ fun(){
 -> Stack Space  
 -> Base case  
 -> Recursion Tree  
-
+-> Pick not pick method  
 
 ### Problems
 1) Sum of 'N' natural numbers (parameterized & functional recursion)  
