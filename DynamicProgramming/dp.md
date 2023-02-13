@@ -28,3 +28,4 @@ If Questions say
 1) Min Cost Climbing Stairs  
 2) Maximum sum of non-adjacent elements  
 3) Ninja Training  
+4) Unique Paths  
