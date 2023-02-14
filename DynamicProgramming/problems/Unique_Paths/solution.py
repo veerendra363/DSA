@@ -9,7 +9,7 @@ def allUniquePaths(i, j):
     return allUniquePaths(i+1, j) + allUniquePaths(i, j+1)
 m, n = map(int, input("Enter values : ").split())
 print(f'Unique paths = {allUniquePaths(1, 1)}')
-# Time: O(N^(row*col)), Space:O(M + N)
+# Time: O(N^(row*col)), Space:O(row + col)
 
 # Top - down approach (memoization technique)
 def allUniquePaths(i, j):
