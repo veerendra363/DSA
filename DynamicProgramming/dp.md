@@ -16,7 +16,7 @@
 
 
 
-### All 1D array problems
+### All problems
 -> all possible ways or count the no.of ways.  
 -> min or max (best way).  
 

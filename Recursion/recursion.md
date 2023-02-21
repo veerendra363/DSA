@@ -23,6 +23,28 @@ f(){
 &emsp;return leftSubTree + rightSubTree  
 }  
 
+#### Pick not pick method  
+f(i){  
+&emsp;base Case  
+&emsp;pick = (value +) f(i-1)  
+&emsp;notpick = f(i-1)  
+&emsp;total = pick + notpick  
+&emsp;mini = min(pick, notpick)  
+&emsp;maxi = max(pick, notpick)  
+&emsp;return total | mini | maxi based on question  
+}  
+
+#### Infinite Supplies or Multiple use  
+f(i, target){  
+&emsp;base Case  
+&emsp;<ins>pick = (value +) f(i, target) i th item is used multiple times</ins>  
+&emsp;notpick = f(i-1, target)  
+&emsp;total = pick + notpick  
+&emsp;mini = min(pick, notpick)  
+&emsp;maxi = max(pick, notpick)  
+&emsp;return total | mini | maxi based on question  
+}  
+
 ### Problems
 1) Sum of 'N' natural numbers (parameterized & functional recursion)  
 2) Print all subsequences (pick and not pick)  
