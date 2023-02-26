@@ -37,4 +37,8 @@ If Questions say
 4) Unique Paths  
 5) Triangle  
 6) 0/1 Knapsack  
+-> DP on strings
 7) Longest Common Subsequences  
+-> Dp on stocks  
+8) Best Time to Buy and Sell Stock 
+9) Best Time to Buy and Sell Stock II
