@@ -42,3 +42,5 @@ If Questions say
 -> Dp on stocks  
 8) Best Time to Buy and Sell Stock 
 9) Best Time to Buy and Sell Stock II
+-> Increasing Sequences  
+10) Longest Increasing Subsequence  
