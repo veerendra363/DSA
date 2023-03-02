@@ -14,7 +14,7 @@
 1) Top - down approach (Memorization / memoization technique).  
 2) Bottom -up approach (Tabulation technique).  
 
-
+[Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)  
 
 ### All problems
 -> all possible ways or count the no.of ways.  
@@ -41,6 +41,6 @@ If Questions say
 7) Longest Common Subsequences  
 -> Dp on stocks  
 8) Best Time to Buy and Sell Stock 
-9) Best Time to Buy and Sell Stock II
+9) Best Time to Buy and Sell Stock II  
 -> Increasing Sequences  
 10) Longest Increasing Subsequence  
