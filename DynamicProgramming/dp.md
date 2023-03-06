@@ -29,6 +29,11 @@ If Questions say
 -> find min = min(all possible stuffs)  
 -> find amx = max(all possible stuffs)  
 
+### Partition problems  
+1) start with entire block or array | f(start = 0, end = n - 1)  
+2) try all partitions   
+3) return best two partitions  
+
 
 ### Problems
 1) Min Cost Climbing Stairs  
@@ -42,5 +47,7 @@ If Questions say
 -> Dp on stocks  
 8) Best Time to Buy and Sell Stock 
 9) Best Time to Buy and Sell Stock II  
--> Increasing Sequences  
+-> DP on Increasing Sequences  
 10) Longest Increasing Subsequence  
+-> DP on Partition  
+11) Matrix Chain Multiplication
