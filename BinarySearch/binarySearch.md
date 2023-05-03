@@ -30,3 +30,4 @@ Search space is a concept in computer science and optimization that refers to th
 
 ### Problems
 1) Find First and Last Position of Element in Sorted Array  
+2) Single Element in a Sorted Array
