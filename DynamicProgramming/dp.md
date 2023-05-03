@@ -22,7 +22,7 @@
 
 
 ### shortcut
-1) Try ro represent the problem in terms of index.  
+1) Try to represent the problem in terms of index.  
 2) Do all possible stuffs on that index according to the problem statement.  
 If Questions say  
 -> all possible way = sum(all possible stuffs)  
