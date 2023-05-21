@@ -1,0 +1,23 @@
+Count Sub arrays with Given XOR
+
+link: https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652
+
+Problem Statement:
+Given an array of integers ‘ARR’ and an integer ‘X’, 
+you are supposed to find the number of sub arrays of 'ARR' which have bitwise XOR of the elements equal to 'X'.
+
+Example:
+Input: 
+5 8
+5 3 8 3 10
+Output: 2
+
+Constraints:
+1 <= T <= 10
+3 <= N <= 5 * 10 ^ 4
+0 <= X <= 10 ^ 9
+0 <= ARR[i] <= 10 ^ 9
+Where ‘T’ denotes the number of test cases, ‘N’ denotes the number of elements in the array, 
+‘X’ denotes the required sub array XOR and ARR[i] denotes the 'i-th' element of the given array.
+Time Limit: 1 sec
+
